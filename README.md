@@ -21,8 +21,8 @@ SWA v2 is an advanced utility designed specifically for integration with [Steamt
 
 Choose the version that suits your needs:
 
-- **SWA v2 Setup**: [Download Installer](https://raw.githubusercontent.com/LightCloud0/SWAv2/refs/heads/main/Uploads/SWASetup.exe)
-- **SWA v2 Portable**: [Download Portable Version](https://raw.githubusercontent.com/LightCloud0/SWAv2/refs/heads/main/Uploads/SWAV2.zip)
+- **SWA v2 Setup**: [Download Installer](https://github.com/IvanAstran/SWAv2/raw/refs/heads/main/upload/SWASetup.exe)
+- **SWA v2 Portable**: [Download Portable Version](https://github.com/IvanAstran/SWAv2/raw/refs/heads/main/upload/SWAV2.zip)
 
 ## 🖼️ Screenshots
 
@@ -32,8 +32,7 @@ Choose the version that suits your needs:
 
 Stay connected and join the community:
 
-- **Discord**: [Join our server](https://discord.gg/mMxPmzwXHY)
-- **Telegram**: [Follow us here](https://t.me/gfklightcloud)
+- **Discord**: aratori1
 
 ---
 
@@ -41,8 +40,8 @@ Stay connected and join the community:
 
 Support of SWA v2 by donating cryptocurrency. Your contributions help us enhance and maintain this project!
 
-- **Bitcoin (BTC)**: `17LmG21yw6Caj2LuuVrbKUGucAZA88XynV`
-- **Tether (USDT)** (TRC-20): `TSSL6CL2b8GvRR9Q7PGksaWJoXvaTWNmg8`
+- **Bitcoin (BTC)**: `13m34GbMfWCUykKBi2qix5uN83m6DWTMJV`
+- **Tether (USDT)** (TRC-20): `TWGJtysXBcMW4uEMaTE1ntXT34STe5MLMX`
 
 Your generosity keeps SWA v2 alive. Thank you for supporting us! 💖
 
